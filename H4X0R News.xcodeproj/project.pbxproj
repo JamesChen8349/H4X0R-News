@@ -17,6 +17,7 @@
 		F2B7FCB729237F1000A11EE2 /* Results.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B7FCB629237F1000A11EE2 /* Results.swift */; };
 		F2B7FCBC29238D4900A11EE2 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B7FCBB29238D4900A11EE2 /* DetailView.swift */; };
 		F2B7FCC32923949000A11EE2 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B7FCC22923949000A11EE2 /* WebView.swift */; };
+		F2B7FCCA2926164500A11EE2 /* TestGitHub.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B7FCC92926164500A11EE2 /* TestGitHub.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		F2B7FCBB29238D4900A11EE2 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		F2B7FCC22923949000A11EE2 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		F2B7FCC7292396A300A11EE2 /* H4X0R News.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "H4X0R News.entitlements"; sourceTree = "<group>"; };
+		F2B7FCC92926164500A11EE2 /* TestGitHub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitHub.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				F2B7FCA02922336100A11EE2 /* ContentView.swift */,
 				F2B7FCBB29238D4900A11EE2 /* DetailView.swift */,
 				F2B7FCC22923949000A11EE2 /* WebView.swift */,
+				F2B7FCC92926164500A11EE2 /* TestGitHub.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				F2B7FC9F2922336100A11EE2 /* SceneDelegate.swift in Sources */,
 				F2B7FCA12922336100A11EE2 /* ContentView.swift in Sources */,
 				F2B7FCB729237F1000A11EE2 /* Results.swift in Sources */,
+				F2B7FCCA2926164500A11EE2 /* TestGitHub.swift in Sources */,
 				F2B7FCC32923949000A11EE2 /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
